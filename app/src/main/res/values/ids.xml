@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editNombre" type="id" />
+    <item name="editTelefono" type="id" />
+    <item name="editEmail" type="id" />
+    <item name="btnRegistrar" type="id" />
+</resources>
